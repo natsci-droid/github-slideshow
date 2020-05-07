@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What could a '''bot''' possibly find witty?
 Use the left arrow to go back!
